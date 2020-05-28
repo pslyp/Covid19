@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid19</string>
+
+    <string name="confirmed">ผู้ติดเชื้อสะสม</string>
+    <string name="hospitalized">กำลังรักษา</string>
+    <string name="recovered">หายแล้ว</string>
+    <string name="deaths">เสียชีวิต</string>
+</resources>
